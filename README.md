@@ -16,7 +16,7 @@
 
 ## GitHub Links (Deployed Site and Repository)
 
-    The project deployment can be seen at: ekball.ghttps://ekball.github.io/C1-Code-Refactor/
+    The project deployment can be seen at: https://ekball.github.io/C1-Code-Refactor/
 
     The repository link: https://github.com/ekball/C1-Code-Refactor
 
